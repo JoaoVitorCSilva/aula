@@ -1,0 +1,12 @@
+body {
+  background-image: url('exercicio.jpg');
+  background-size: 100vw 100vh; /* Faz a imagem ocupar toda a largura e altura da tela */
+  background-repeat: no-repeat;
+  background-position: center center;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #fff;
+  text-align: center;
+  min-height: 100vh; /* Garante altura mínima da tela */
+}
